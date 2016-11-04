@@ -1,1 +1,1 @@
-You chicken out and decide to run away. You dash back to where you originally [started](). 
+You chicken out and decide to run away. You dash back to where you originally [started](https://github.com/abdelk7344/adventure-story-project/blob/master/maze/home.md). 
