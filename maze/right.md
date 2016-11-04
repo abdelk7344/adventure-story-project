@@ -1,5 +1,7 @@
-You decided to go right and see long dark turns. You come across a deep purple river.  
+You decided to go right and see take a spiral stair case that seems to turn forever. 
 
-Laying by the bank an old boat and a pair of goggles. 
+Once you reach the bottom you wander until you come across a deep sparkling purple river.  
+
+Laying by the bank is an old boat and a pair of goggles. 
 
 Do you [swim across]() or [take the boat]()? 
