@@ -1,4 +1,4 @@
-Your lead to a spiral stair case that seems to go down forever. 
+You're lead to a spiral stair case that seems to go down forever. 
 
 Once you reach the bottom you wander until you come across a deep sparkling purple river.  
 

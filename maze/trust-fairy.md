@@ -1,3 +1,5 @@
-She was so happy you trusted her and cast a spell that creates a white door.
+She was so happy you trusted her that she flew in a little circle. 
 
-You walk through it as she waves you [goodbye](). 
+She cast a spell that created a tall white door.
+
+You walk through it as she waves you [goodbye](https://github.com/abdelk7344/adventure-story-project/blob/master/maze/right.md). 
