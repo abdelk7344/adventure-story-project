@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-You decided to go left and see dark twists and turns. On the approaching wall you see blood smearled on the walls and pooling onto the floor. Do you [proceed]() or [go back]()?
-=======
 You decided to go left and see dark twists and turns. 
 
-On the approaching wall you see blood smearled on the walls and pooling onto the floor. 
+On the approaching wall you see blood smearled on the walls and pooling on the floor. 
 
-Do you [proceed]() or [go back]()?
->>>>>>> 0e63378e25225e4a669a844b838cdfabb38c0117
+Do you [proceed](left-get-eaten.md) or [go back](left-back.md)?
+
