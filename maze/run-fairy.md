@@ -2,6 +2,6 @@ You decide to not trust the fairy, remembering how sneaky those little things ar
 
 The fairy gets mad at your distrust and hexes you! 
 
-She turns you into a bug, forced to wander the maze forever. 
+She turns you into a bug, forced to wander the maze forever.
 
-You Lose! 
+Do you [forgiveness](die-fairy.md) or do you get [mad](kill-fairy.md) at her?
