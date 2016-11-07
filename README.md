@@ -1,3 +1,6 @@
+This project was created to demonstrate and utilize our github and git skills.   
+We used the basic workflow of adding, commiting, pulling, and pushing while collabrating to create this project.   
+We learned how to fix merging issues that would arise from collabration.   
 
 Click [here](maze/home.md) to begin!
 
