@@ -5,3 +5,4 @@ You see a sign that says *Welcome to the Gates of the Maze, only the bravest of 
 We will start with one simple question. 
 
 Will you go [right](right.md), will you go [left](left.md), or do you want to wait and make a [plan](plan.md) ? 
+
