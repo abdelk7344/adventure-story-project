@@ -6,6 +6,6 @@ We will start with one simple question.
 
 Will you go [right](right.md), will you go [left](left.md), or do you want to wait and make a [plan](plan.md) ? 
 
-![](maze-1560774_960_720)
+![](mazepic.png)
 
 _Photo By: https://pixabay.com/en/maze-puzzle-riddle-quiz-labyrinth-1560774/_
