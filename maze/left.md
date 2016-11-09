@@ -1,4 +1,4 @@
-You decided to go left and see dark twists and turns. 
+You go left and come across darker twists and turns. 
 
 On the approaching wall you see blood smearled on the walls and pooling on the floor. 
 
