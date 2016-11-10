@@ -6,4 +6,3 @@ Enchanted, you wander around and you hear a light twinking. It's a tiny fairy!
 
 _Photo By: The Lost Wand_
 
-She says she knows the way out of the maze! Do you [trust](trust-fairy.md) her or [not](run-fairy.md)? 
