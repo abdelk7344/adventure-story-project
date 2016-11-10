@@ -4,4 +4,4 @@ The fairy gets mad at your distrust and hexes you!
 
 She turns you into a bug, forced to wander the maze forever.
 
-Do you [forgiveness](die-fairy.md) or do you get [mad](kill-fairy.md) at her?
+Do you beg for [forgiveness](die-fairy.md) or do you get [mad](kill-fairy.md) at her?
